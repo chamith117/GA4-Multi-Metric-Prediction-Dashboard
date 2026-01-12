@@ -5,6 +5,16 @@ import pickle
 import joblib
 from datetime import date
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PNP8HXNDWW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PNP8HXNDWW');
+</script>
+
 # -------------------------------
 # PAGE CONFIG
 # -------------------------------
